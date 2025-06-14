@@ -1,0 +1,5 @@
+[console_scripts]
+fruit = multimodel.fruit:main
+iris = multimodel.iris:main
+svm = multimodel.svm:main
+

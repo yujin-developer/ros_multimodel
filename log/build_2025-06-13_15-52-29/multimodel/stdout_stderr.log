@@ -1,0 +1,28 @@
+running egg_info
+creating build/multimodel/multimodel.egg-info
+writing build/multimodel/multimodel.egg-info/PKG-INFO
+writing dependency_links to build/multimodel/multimodel.egg-info/dependency_links.txt
+writing entry points to build/multimodel/multimodel.egg-info/entry_points.txt
+writing requirements to build/multimodel/multimodel.egg-info/requires.txt
+writing top-level names to build/multimodel/multimodel.egg-info/top_level.txt
+writing manifest file 'build/multimodel/multimodel.egg-info/SOURCES.txt'
+reading manifest file 'build/multimodel/multimodel.egg-info/SOURCES.txt'
+writing manifest file 'build/multimodel/multimodel.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yujin/ros2_ws/src/multimodel/build/multimodel/build
+creating /home/yujin/ros2_ws/src/multimodel/build/multimodel/build/lib
+creating /home/yujin/ros2_ws/src/multimodel/build/multimodel/build/lib/multimodel
+copying multimodel/__init__.py -> /home/yujin/ros2_ws/src/multimodel/build/multimodel/build/lib/multimodel
+running install
+running install_lib
+creating /home/yujin/ros2_ws/src/multimodel/install/multimodel/lib/python3.10/site-packages/multimodel
+copying /home/yujin/ros2_ws/src/multimodel/build/multimodel/build/lib/multimodel/__init__.py -> /home/yujin/ros2_ws/src/multimodel/install/multimodel/lib/python3.10/site-packages/multimodel
+byte-compiling /home/yujin/ros2_ws/src/multimodel/install/multimodel/lib/python3.10/site-packages/multimodel/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/yujin/ros2_ws/src/multimodel/install/multimodel/share/ament_index
+creating /home/yujin/ros2_ws/src/multimodel/install/multimodel/share/ament_index/resource_index
+creating /home/yujin/ros2_ws/src/multimodel/install/multimodel/share/ament_index/resource_index/packages
+copying resource/multimodel -> /home/yujin/ros2_ws/src/multimodel/install/multimodel/share/ament_index/resource_index/packages
+error: can't copy 'multimodel/fruits_weight_sphercity.csv': doesn't exist or not a regular file
+copying package.xml -> /home/yujin/ros2_ws/src/multimodel/install/multimodel/share/multimodel

@@ -1,0 +1,30 @@
+[0.660s] Invoking command in '/home/yujin/ros2_ws/src/multimodel': PYTHONPATH=/home/yujin/ros2_ws/src/multimodel/build/multimodel/prefix_override:/home/yujin/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/yujin/ros2_ws/src/multimodel/install/multimodel/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/multimodel build --build-base /home/yujin/ros2_ws/src/multimodel/build/multimodel/build install --record /home/yujin/ros2_ws/src/multimodel/build/multimodel/install.log --single-version-externally-managed install_data
+[0.936s] running egg_info
+[0.937s] creating build/multimodel/multimodel.egg-info
+[0.937s] writing build/multimodel/multimodel.egg-info/PKG-INFO
+[0.937s] writing dependency_links to build/multimodel/multimodel.egg-info/dependency_links.txt
+[0.937s] writing entry points to build/multimodel/multimodel.egg-info/entry_points.txt
+[0.937s] writing requirements to build/multimodel/multimodel.egg-info/requires.txt
+[0.937s] writing top-level names to build/multimodel/multimodel.egg-info/top_level.txt
+[0.937s] writing manifest file 'build/multimodel/multimodel.egg-info/SOURCES.txt'
+[0.939s] reading manifest file 'build/multimodel/multimodel.egg-info/SOURCES.txt'
+[0.939s] writing manifest file 'build/multimodel/multimodel.egg-info/SOURCES.txt'
+[0.939s] running build
+[0.939s] running build_py
+[0.939s] creating /home/yujin/ros2_ws/src/multimodel/build/multimodel/build
+[0.940s] creating /home/yujin/ros2_ws/src/multimodel/build/multimodel/build/lib
+[0.940s] creating /home/yujin/ros2_ws/src/multimodel/build/multimodel/build/lib/multimodel
+[0.940s] copying multimodel/__init__.py -> /home/yujin/ros2_ws/src/multimodel/build/multimodel/build/lib/multimodel
+[0.941s] running install
+[0.941s] running install_lib
+[0.942s] creating /home/yujin/ros2_ws/src/multimodel/install/multimodel/lib/python3.10/site-packages/multimodel
+[0.942s] copying /home/yujin/ros2_ws/src/multimodel/build/multimodel/build/lib/multimodel/__init__.py -> /home/yujin/ros2_ws/src/multimodel/install/multimodel/lib/python3.10/site-packages/multimodel
+[0.943s] byte-compiling /home/yujin/ros2_ws/src/multimodel/install/multimodel/lib/python3.10/site-packages/multimodel/__init__.py to __init__.cpython-310.pyc
+[0.943s] running install_data
+[0.943s] creating /home/yujin/ros2_ws/src/multimodel/install/multimodel/share/ament_index
+[0.943s] creating /home/yujin/ros2_ws/src/multimodel/install/multimodel/share/ament_index/resource_index
+[0.943s] creating /home/yujin/ros2_ws/src/multimodel/install/multimodel/share/ament_index/resource_index/packages
+[0.943s] copying resource/multimodel -> /home/yujin/ros2_ws/src/multimodel/install/multimodel/share/ament_index/resource_index/packages
+[0.943s] error: can't copy 'multimodel/fruits_weight_sphercity.csv': doesn't exist or not a regular file
+[0.944s] copying package.xml -> /home/yujin/ros2_ws/src/multimodel/install/multimodel/share/multimodel
+[0.964s] Invoked command in '/home/yujin/ros2_ws/src/multimodel' returned '1': PYTHONPATH=/home/yujin/ros2_ws/src/multimodel/build/multimodel/prefix_override:/home/yujin/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/yujin/ros2_ws/src/multimodel/install/multimodel/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/multimodel build --build-base /home/yujin/ros2_ws/src/multimodel/build/multimodel/build install --record /home/yujin/ros2_ws/src/multimodel/build/multimodel/install.log --single-version-externally-managed install_data

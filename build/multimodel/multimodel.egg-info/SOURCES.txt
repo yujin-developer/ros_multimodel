@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+build/multimodel/multimodel.egg-info/PKG-INFO
+build/multimodel/multimodel.egg-info/SOURCES.txt
+build/multimodel/multimodel.egg-info/dependency_links.txt
+build/multimodel/multimodel.egg-info/entry_points.txt
+build/multimodel/multimodel.egg-info/requires.txt
+build/multimodel/multimodel.egg-info/top_level.txt
+build/multimodel/multimodel.egg-info/zip-safe
+multimodel/__init__.py
+resource/multimodel
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
